@@ -1,0 +1,7 @@
+*idea/
+*msc.iml
+*pizzaFunctionalSyntax.owl
+*target/
+*.classpath
+*.project
+*.settings/
